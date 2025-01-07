@@ -1,5 +1,6 @@
-# HydroGuard
-HydroGuard is an advanced underwater ROV (Remotely Operated Vehicle) designed to monitor and safeguard underwater environments. This innovative system combines real-time data collection, robust underwater navigation, and advanced analytics to ensure efficient monitoring and management of aquatic resources.  
+# HydroGuard  
+HydroGuard is an advanced underwater ROV (Remotely Operated Vehicle) designed to monitor and safeguard underwater environments. This innovative system combines real-time data collection, robust underwater navigation, and advanced analytics to ensure efficient monitoring and inspection of submerged concrete Marine structures.  
+
 
 ## Features  
 - **Underwater Crack Detection**: Equipped with sensors and cameras to identify structural damage in submerged structures like dams, pipelines, and bridges.  
