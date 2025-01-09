@@ -55,4 +55,12 @@ HydroGuard aims to provide a reliable, efficient, and versatile solution for und
 
 ![WhatsApp Image 2025-01-07 at 12 49 13_32a770ff](https://github.com/user-attachments/assets/22941035-1a90-4ab1-8f47-35949584d7ca)
 
+# Internal Frame of ROV
+
+![frame](https://github.com/user-attachments/assets/7789c2cf-7997-45cf-8c18-f31d774571df)
+
+![frame2](https://github.com/user-attachments/assets/c0e5d8dd-7c21-4b4d-9cd7-919fc5f3b8fd)
+
+
+
 
