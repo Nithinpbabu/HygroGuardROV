@@ -63,6 +63,19 @@ HydroGuard aims to provide a reliable, efficient, and versatile solution for und
 
 ![frame2](https://github.com/user-attachments/assets/c0e5d8dd-7c21-4b4d-9cd7-919fc5f3b8fd)
 
+# Rear end of ROV
+
+![1](https://github.com/user-attachments/assets/69081dae-8064-4c00-ab89-f84d25d4290d)
+
+On the Rear end, several ports are given which will give access to the internal components once the ROV is completely enclosed.
+
+- **1.HDMI Port** : connected to the Raspberrypi inside the ROV
+- **2.Multi pin Connector** : connected to balanced charging port of LiPo battery
+- **3.12v DC socket** : conncetd to Lithium ion Battery pack
 
 
+
+![WhatsApp Image 2025-01-14 at 15 41 45_0e6f5767](https://github.com/user-attachments/assets/5bc61f97-f408-4dde-9e92-5bb4495332d5)
+
+![WhatsApp Image 2025-01-14 at 15 41 44_f1e89a63](https://github.com/user-attachments/assets/d6b4dd49-9187-4cf9-8a77-6ee3d3c540bf)
 
