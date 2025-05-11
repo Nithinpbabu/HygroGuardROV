@@ -63,6 +63,10 @@ HydroGuard aims to provide a reliable, efficient, and versatile solution for und
 
 ![frame2](https://github.com/user-attachments/assets/c0e5d8dd-7c21-4b4d-9cd7-919fc5f3b8fd)
 
+![Components in Frame](https://github.com/user-attachments/assets/44a7fc34-0d45-4ea4-bd5c-cd080958af96)
+
+![WhatsApp Image 2025-01-26 at 18 31 46_cabb446c](https://github.com/user-attachments/assets/bca0fe74-c1f1-440f-ac59-cf9825e416e6)
+
 # Rear end of ROV
 
 ![1](https://github.com/user-attachments/assets/69081dae-8064-4c00-ab89-f84d25d4290d)
